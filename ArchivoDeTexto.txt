@@ -1,0 +1,4 @@
+Hola, Soy el Programador Trainer de todos estos 
+archivos desarrollados por mi en practica autodidacta.
+Con cursos de la academia Udemy, codepen, y algo de stack overflow.
+Buscando mi empleo en desarrollo de software.
